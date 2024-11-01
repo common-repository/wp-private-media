@@ -1,0 +1,103 @@
+
+.form-table {
+    max-width: 600px;
+}
+
+.whsrs-settings input[type="text"] {
+    width: 100%;
+    padding: 6px 6px;
+}
+.whsrs-settings input[type="checkbox"] {
+    width: auto;
+}
+.whsrs-settings th {
+    font-size: 22px;
+    font-weight: normal;
+}
+.whsrs-settings td {
+    vertical-align: top;
+    padding-top: 0;
+}
+
+.whsrs-settings .form-table > tr > td:first-child {
+    padding-left: 20px;
+}
+#your_logo_thumb {
+    max-width: 400px;
+}
+#your_logo_thumb img {
+    max-width: 100%;
+}
+.whsrs-settings .img-attributes {
+    margin-top: 10px;
+}
+.whsrs-settings .img-attributes label {
+    margin-right: 3px;
+}
+.whsrs-settings .img-attributes input[type="text"] {
+    width: 60px;
+    margin-right: 10px;
+}
+
+.whsrs-address label {
+    margin-left: 2px;
+}
+.whsrs-address input {
+    margin-bottom: 10px;
+}
+
+.whsrs-hours-table td {
+    padding: 10px;
+    vertical-align: middle;
+}
+.whsrs-hours-table td:first-child {
+    padding-top: 20px;
+    padding-left: 0;
+}
+.whsrs-hours-table td label {
+    display: block;
+    font-size: 12px;
+}
+.whsrs-post-types label {
+    display: block;
+}
+
+hr {
+    margin: 20px 0;
+}
+    /*
+    .desc {
+        margin-left: 30px;
+    }
+    .intro {
+        font-size: 16px;
+    }
+    .whsrs-header {
+        display: block;
+    }
+    .whsrs-description {
+        float: left;
+        max-width: calc( 100% - 300px);
+    }
+
+    .spacer {
+        padding:0 5px;
+    }
+
+    .form-table {
+        max-width: 600px;
+    }
+
+    .form-table input {
+        width: 100%;
+    }
+
+    @media screen and (max-width:500px) {
+        .whsrs-description {
+            float: none;
+            max-width: 100%;
+            width: 100%;
+            margin-bottom: 30px;
+        }
+    }
+    */
